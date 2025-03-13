@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { motion } from "framer-motion";
-import JsLogo from "./svgimage/jslogo";
+import JsLogo from "./svgimage/JsLogo";
 import RustLogo from "./svgimage/RustLogo";
 import Python from "./svgimage/Python";
 import NextJs from "./svgimage/NextJs";
