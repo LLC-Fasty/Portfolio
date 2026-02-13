@@ -103,12 +103,7 @@ export default function About() {
               className="bg-[#E2E2E2] dark:bg-[#3F3F3F] py-10 px-32 rounded-tl-[400px] rounded-br-[100px]"
             >
               <p className="text-[#212121] dark:text-[#f5f5f5] text-2xl font-semibold text-center">
-                Artificial Intelligence Engineer with 2+ years in Center of
-                Excellence G.H.Raisoni College of Engineering, Nagpur.Also
-                worked as a Web Developer Intern for 6 months in 10xGrowth. I am
-                Open for any Software Development and AI/ML and Blockchain
-                Related work. I am also a part of a Startup which is working on
-                Blockchain Technology.
+                Creative UI/UX Designer with 2+ years of experience designing intuitive digital experiences for web and mobile applications. Strong in research, prototyping, design systems, and frontend implementation.
               </p>
             </motion.div>
           </div>
