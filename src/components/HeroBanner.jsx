@@ -34,7 +34,7 @@ export default function HeroBanner() {
                   framerProps={{
                     show: { transition: { delay: 0.2 } },
                   }}
-                  text="CEO"
+                  text="UI/UX Lead & Product Designer"
                 />
                 <FadeText
                   className="font-medium text-3xl mx-3"
@@ -69,10 +69,10 @@ export default function HeroBanner() {
                 <WordRotate
                   className="text-6xl py-2 font-black text-[#212121] dark:text-[#f5f5f5]"
                   words={[
+                    "UI/UX Designer",
+                    "Front-End Dev",
                     "Blockchain Dev",
                     "AI/ML Technology",
-                    "Mern Stack Dev",
-                    "Mobile App Dev",
                   ]}
                 />
               </div>
