@@ -35,7 +35,7 @@ export default function MyVision() {
             </motion.div>
           </div>
           <div>
-            <TextRevealByWord text="My vision is to create a ecosystem with blockchain technology that can be accessible to all human kind and easy to use with great user experience which can be fun and enjoyable to mingle with the whole world." />
+            <TextRevealByWord text="To create impactful, user-centered products that solve real-world problems through thoughtful design, emerging technologies, and seamless user experiences." />
           </div>
         </div>
       </div>
